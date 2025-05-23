@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+torch
+torchvision
+timm
+opencv-python
+Pillow
+numpy
+python-multipart
+werkzeug
